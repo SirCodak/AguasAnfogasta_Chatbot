@@ -1,0 +1,7 @@
+config copy.py
+trash
+.venv
+Temporal Downloads
+config.py
+__pycache__
+bots\__pycache__

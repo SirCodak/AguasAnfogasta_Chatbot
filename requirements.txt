@@ -1,0 +1,9 @@
+botbuilder-integration-aiohttp
+aiohttp
+redis>=4.4.0
+requests
+openai
+config
+schedule
+pytz
+setuptools
